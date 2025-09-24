@@ -5,6 +5,8 @@ app_description = "Web Push Notification for ERPNext 14"
 app_email = "merckiano@outlook.com"
 app_license = "MIT"
 
+
+app_include_js = "/assets/web_push/js/web_push.js"
 # Includes in <head>
 # ------------------
 
